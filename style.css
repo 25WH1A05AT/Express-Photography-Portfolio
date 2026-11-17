@@ -1,0 +1,15 @@
+
+body {
+    text-align: center;
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    border: 3px solid black;
+    border-radius: 10px;
+}
